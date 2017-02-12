@@ -5,7 +5,7 @@ Formulario desenvolvido para o treinamento da IN Junior
 
 <h2>Objetivo</h2>
 
-Desenvolver um formulario com validação de dados
+Desenvolver um formulario com validação de dados usando JavaScript
 
 
 
